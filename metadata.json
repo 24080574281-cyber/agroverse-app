@@ -1,0 +1,6 @@
+{
+  "name": "AGROVERSE - Agribusiness Digital Ecosystem",
+  "description": "Connecting Agriculture, Empowering Future. Ekosistem agribisnis digital berbasis Artificial Intelligence dan Blockchain untuk petani, konsumen, mitra industri, dan investor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
